@@ -1,0 +1,6 @@
+{
+  "name": "PSSEMR Club Report Tracker",
+  "description": "Club Report WhatsApp Sharing Status Tracker for PSSEMR School & PU College, Davangere. Track, update, and monitor activity report submissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
